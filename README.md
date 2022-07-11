@@ -15,5 +15,5 @@ Below given is the commands to run the program in Windows.
 3)Running the jar file:
  -->hadoop jar C:/hadoop-3.3.0/share/hadoop/mapreduce/hadoop-mapreduce-examples-3.3.0.jar wordcount /word_count /outputs
 
-4)To see the occurence of each word:
+4)To see the occurrence of each word:
 hadoop fs -cat /outputs/*
