@@ -1,3 +1,4 @@
+![SS4](https://user-images.githubusercontent.com/48358012/178337682-b9ca11b3-8828-4273-9693-06afd88a1bcd.PNG)
 # Hadoop_Map_reduce
 Basically It's a Hadoop Map reduce program word count program which mainly shows the count of each word in a text file.
 Here it  shows  the implementation of Word Count java program in HDFS.
